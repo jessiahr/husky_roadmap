@@ -22,6 +22,7 @@ https://www.google.com/search?q=pi+3+pinout&client=ubuntu&hs=123&channel=fs&sxsr
 - [ ] How do we deal with dual hubs / clustering?
 - [ ] Enclosure 
 - [ ] Remote updates / debug
+- [ ] Customer specific config
 
 
 A hub that maintains a connection to the cell network and runs a UI while connected to a collection of external sensors.
